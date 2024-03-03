@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siric\\Fish_Flock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23AFCE4F-27D5-1674-3D2F-95E616FE30E6}|Assembly-CSharp.csproj|C:\\Users\\siric\\Fish_Flock\\assets\\script\\flockunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AFCE4F-27D5-1674-3D2F-95E616FE30E6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\flockunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AFCE4F-27D5-1674-3D2F-95E616FE30E6}|Assembly-CSharp.csproj|c:\\users\\siric\\fish_flock\\assets\\script\\flock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AFCE4F-27D5-1674-3D2F-95E616FE30E6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\flock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlockUnit.cs",
+              "DocumentMoniker": "C:\\Users\\siric\\Fish_Flock\\Assets\\Script\\FlockUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FlockUnit.cs",
+              "ToolTip": "C:\\Users\\siric\\Fish_Flock\\Assets\\Script\\FlockUnit.cs",
+              "RelativeToolTip": "Assets\\Script\\FlockUnit.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAowOIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T08:56:27.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flock.cs",
+              "DocumentMoniker": "C:\\Users\\siric\\Fish_Flock\\Assets\\Script\\Flock.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Flock.cs",
+              "ToolTip": "C:\\Users\\siric\\Fish_Flock\\Assets\\Script\\Flock.cs",
+              "RelativeToolTip": "Assets\\Script\\Flock.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAtwE0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T08:19:27.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
